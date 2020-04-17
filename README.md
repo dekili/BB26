@@ -144,7 +144,7 @@ Nach dem Start von Octave erscheint die Octave-**Oberfläche**, welche aus mehre
 - *Workspace*: Fenster links unten; hier werden Größe und Typ von Objekten angegeben.
 - *Documentation*: Fenster rechts; bietet umfangreiche Informationen über Funktion, insbesondere zu ihrer Syntax.
 
-<img src="src\TEMP\07_Octave_Oberfläche.jpg" alt="07_Octave_Oberfläche" style="zoom:33%;" />
+<img src="src\D_01_Octave_Oberfläche.jpg" alt="07_Octave_Oberfläche" style="zoom:33%;" />
 
 
 
@@ -156,13 +156,13 @@ In diesem Tutorial werden wir im Wesentlichen nur eine einzige Funktion benötig
 
 > Das Skript an sich muss NICHT geöffnet werden; sollte es dennoch geöffnet werden, landet man im Editor-Fenster. In diesem Fall wieder auf den Reiter "Command Window" (Mitte unten) drücken.
 
-<img src="src\TEMP\08_FileBrowser_a.jpg" alt="08_FileBrowser_a" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_a.jpg" alt="08_FileBrowser_a" style="zoom:33%;" />
 
-<img src="src\TEMP\08_FileBrowser_b.jpg" alt="08_FileBrowser_b" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_b.jpg" alt="08_FileBrowser_b" style="zoom:33%;" />
 
-<img src="src\TEMP\08_FileBrowser_c.jpg" alt="08_FileBrowser_c" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_c.jpg" alt="08_FileBrowser_c" style="zoom:33%;" />
 
-<img src="src\TEMP\08_FileBrowser_d.jpg" alt="08_FileBrowser_d" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_d.jpg" alt="08_FileBrowser_d" style="zoom:33%;" />
 
 
 
@@ -174,7 +174,7 @@ Ihr solltet nun im Ordner des Skripts *DotDemo_2019.m* angelangt sein. Um das Sk
 DotDemo_2019
 ```
 
-<img src="src\TEMP\09_DotDemo-Command.jpg" alt="09_DotDemo-Command" style="zoom:33%;" />
+<img src="src\D_03_DotDemo-Command.jpg" alt="09_DotDemo-Command" style="zoom:33%;" />
 
 
 
@@ -197,13 +197,13 @@ Vor Beginn der Präsentation der Random Dot Pattern werden mehrere Informationen
 
 Jeder Eingabe ist mit [ENTER] zu bestätigen.
 
-<img src="src\TEMP\10_Gruppennummer_angeben.jpg" alt="10_Gruppennummer_angeben" style="zoom:33%;" />
+<img src="src\D_04_Gruppennummer_angeben.jpg" alt="10_Gruppennummer_angeben" style="zoom:33%;" />
 
-<img src="src\TEMP\11_Teilnehmer-Name_angeben.jpg" alt="11_Teilnehmer-Name_angeben" style="zoom:33%;" />
+<img src="src\D_05_Teilnehmer-Name_angeben.jpg" alt="11_Teilnehmer-Name_angeben" style="zoom:33%;" />
 
-<img src="src\TEMP\12_Kohärenzwert_angeben.jpg" alt="12_Kohärenzwert_angeben" style="zoom:33%;" />
+<img src="src\D_06_Kohärenzwert_angeben.jpg" alt="12_Kohärenzwert_angeben" style="zoom:33%;" />
 
-<img src="src\TEMP\12_Trial-Anzahl_angeben.jpg" alt="12_Trial-Anzahl_angeben" style="zoom:33%;" />
+<img src="src\D_07_Trial-Anzahl_angeben.jpg" alt="12_Trial-Anzahl_angeben" style="zoom:33%;" />
 
 
 
@@ -213,7 +213,7 @@ Nun wird eine **Bestätigung** (y = yes, n = no) der vorher getätigten Eingaben
 Falls alles richtig eingegeben wurde, `y` drücken und wieder mit [ENTER] bestätigen. 
 Damit startet die Dot Demo.
 
-<img src="src\TEMP\13_Bestätigen.jpg" alt="13_Bestätigen" style="zoom:33%;" />
+<img src="src\D_08_Bestätigen.jpg" alt="13_Bestätigen" style="zoom:33%;" />
 
 
 
@@ -226,11 +226,11 @@ Die Darstellung sollte wie im folgenden Fenster aussehen. Dabei sind folgende Be
 * *Random Dots* (weiße Punkte): diese Punkte können sich je nach Kohärenzwert in eine Richtung bewegen. Bei einer Kohärenz von 100% würden sich somit alle weißen Punkte entweder zum blauen oder grünen Punkt hin bewegen. Bei Kohärenzwerten von < 100% bewegt sich entsprechend nur eine Teilmenge von Punkten in eine dieser beiden Richtungen, der Rest schlägt zufällige Bewegungsrichtungen ein. 
   WICHTIG: der Partizipant soll <u>nicht</u> die weißen Punkte fixieren, sondern sich ausschließlich auf den roten Punkt konzentrieren!
 
-<img src="src\TEMP\14_DotDemo_durchführen.jpg" alt="14_DotDemo_durchführen" style="zoom:33%;" />
+<img src="src\D_09_DotDemo_durchführen.jpg" alt="14_DotDemo_durchführen" style="zoom:33%;" />
 
-<img src="src\TEMP\14_nach_DotDemo_CommandWindow.jpg" alt="14_nach_DotDemo_CommandWindow" style="zoom:33%;" />
+<img src="src\D_10_nach_DotDemo_CommandWindow.jpg" alt="14_nach_DotDemo_CommandWindow" style="zoom:33%;" />
 
-<img src="src\TEMP\15_ErgebnisMatrix.jpg" alt="15_ErgebnisMatrix" style="zoom:33%;" />
+<img src="src\D_11_ErgebnisMatrix.jpg" alt="15_ErgebnisMatrix" style="zoom:33%;" />
 
 
 
