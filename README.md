@@ -285,23 +285,23 @@ Die Ergebnisse lassen sich nach Abschluss aller Experimente in einem Office-Prog
 * Ergebnisse einfügen, z.B. mit Tastenkombination [STR]+[V] 
 * Im Menü *Text Import*  die im Bild gezeigten Einstellungen verwenden
 
-![E_17_LibreOffice-Calc_starten](src\E_01_LibreOffice-Calc_starten.jpg)	
+<img src="src\E_01_LibreOffice-Calc_starten.jpg" alt="E_17_LibreOffice-Calc_starten" style="zoom:33%;" />	
 
-![E_02_LibreOffice-Calc_Oberfläche](src\E_02_LibreOffice-Calc_Oberfläche.jpg)
+<img src="src\E_02_LibreOffice-Calc_Oberfläche.jpg" alt="E_02_LibreOffice-Calc_Oberfläche" style="zoom:33%;" />
 
-![E_03_Ergebnismatrix_einfügen](src\E_03_Ergebnismatrix_einfügen.jpg)
+<img src="src\E_03_Ergebnismatrix_einfügen.jpg" alt="E_03_Ergebnismatrix_einfügen" style="zoom:33%;" />
 
 
 
 Es sollten nun die Ergebnisse in drei Spalten aufgeteilt worden sein. Der Vollständigkeit halber wurden im folgenden Bild die Tabellenspalten mit Bezeichnungen versehen.
 
-![E_04_Interpretation_a](src\E_04_Interpretation_a.jpg)
+<img src="src\E_04_Interpretation_a.jpg" alt="E_04_Interpretation_a" style="zoom:33%;" />
 
 
 
 Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bild per Menü:
 
-![E_05_Speichern-Ergebnisse](src\E_05_Speichern-Ergebnisse.jpg)
+<img src="src\E_05_Speichern-Ergebnisse.jpg" alt="E_05_Speichern-Ergebnisse" style="zoom:33%;" />
 
 
 
@@ -315,7 +315,7 @@ Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bil
 
 
 
-![F_01_VirtuelleMaschine-Beenden](src\F_01_VirtuelleMaschine-Beenden.jpg)
+<img src="src\F_01_VirtuelleMaschine-Beenden.jpg" alt="F_01_VirtuelleMaschine-Beenden" style="zoom:33%;" />
 
 
 
