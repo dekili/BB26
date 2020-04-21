@@ -2,8 +2,6 @@
 
 [TOC]
 
-
-
 ## 1 Einführung
 
 Die Idee dieses Experimentes ist es, zu testen, wie viele Punkte einer Punktwolke sich in die gleiche Richtung bewegen müssen, damit wir diese Bewegungsrichtung auch wahrnehmen können.
@@ -14,7 +12,7 @@ Dazu verwenden wir als Stimuli sogenannte **Random Dot Pattern**.  Dies ist ein 
 
 
 
-
+<br/>
 
 ## 2 Verwendete Software
 
@@ -105,7 +103,7 @@ Um die virtuelle Maschine zu starten, klicken wir oben rechts auf den Button **"
 
 
 
-
+<br/>
 
 ### 2.2 Debian
 
@@ -129,15 +127,11 @@ Nach kurzer Wartezeit erscheint dann der Desktop. Hier sehen wir, dass bereits e
 
 
 
-
+<br/>
 
 ### 2.3 Octave
 
-Um die bewegten visuellen Stimuli zu erstellen, benutzen wir in diesem Experiment die Analysesoftware *Octave*. Wir müssen zum Glück nicht alles von Hand neu programmieren, sondern können auf bereits vorgeschriebene Funktionen und Funktionen der *Psychtoolbox*
-
-[^1]: www.psychtoolbox.org
-
- zurückgreifen, welche ebenfalls in unserem BB26-Image enthalten sind.
+Um die bewegten visuellen Stimuli zu erstellen, benutzen wir in diesem Experiment die Analysesoftware *Octave*. Wir müssen zum Glück nicht alles von Hand neu programmieren, sondern können auf bereits vorgeschriebene Funktionen und Funktionen der *Psychtoolbox* (www.psychtoolbox.org) zurückgreifen, welche ebenfalls bereits in unserem BB26-Image enthalten sind.
 
 Um Octave zu starten, gehen wir im **Applications Menu** (links oben) auf den Reiter **Education** und klicken auf die **App** *GNU Octave*.
 
@@ -159,6 +153,8 @@ Nach dem Start von Octave erscheint die Octave-**Oberfläche**, welche aus mehre
 <img src="src\D_01_Octave_Oberfläche.jpg" alt="07_Octave_Oberfläche" align=center width="650"  />
 
 
+
+<br/>
 
 ## 3 Experiment
 
@@ -268,7 +264,7 @@ Nach Durchführen aller Trials sollten wir folgende **Ergebnismatrix** im Comman
 
 
 
-
+<br/>
 
 ## 4. Ergebnisse
 
@@ -307,7 +303,7 @@ Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bil
 
 
 
-
+<br/>
 
 ## 5. Abschluss
 
@@ -319,7 +315,7 @@ Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bil
 
 <img src="src\F_01_VirtuelleMaschine-Beenden.jpg" alt="F_01_VirtuelleMaschine-Beenden" align=center width="650"  />
 
-
+<br/>
 
 ## 6. Zusammenfassung
 
