@@ -10,7 +10,7 @@ Die Idee dieses Experimentes ist es, zu testen, wie viele Punkte einer Punktwolk
 
 Dazu verwenden wir als Stimuli sogenannte **Random Dot Pattern**.  Dies ist ein zufälliges Muster von Punkten, die sich auf einem schwarzen Hintergrund mit konstanter Geschwindigkeit in jeweils eine Richtung bewegen. Ein bestimmter Anteil der Punkte bewegt sich dabei in identischer Richtung. Diese Punkte bezeichnen wir im Folgenden als *kohärent*. 
 
-<img src="src\Random_Dot_Pattern.gif" alt="Random_Dot_Pattern" width="400" />
+<img src="src\Random_Dot_Pattern.gif" alt="Random_Dot_Pattern" width="500" />
 
 
 
