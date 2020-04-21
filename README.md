@@ -10,7 +10,7 @@ Die Idee dieses Experimentes ist es, zu testen, wie viele Punkte einer Punktwolk
 
 Dazu verwenden wir als Stimuli sogenannte **Random Dot Pattern**.  Dies ist ein zufälliges Muster von Punkten, die sich auf einem schwarzen Hintergrund mit konstanter Geschwindigkeit in jeweils eine Richtung bewegen. Ein bestimmter Anteil der Punkte bewegt sich dabei in identischer Richtung. Diese Punkte bezeichnen wir im Folgenden als *kohärent*. 
 
-<img src="src\Random_Dot_Pattern.gif" alt="Random_Dot_Pattern" style="zoom: 33%;" />
+<img src="src\Random_Dot_Pattern.gif" alt="Random_Dot_Pattern" width="400" />
 
 
 
@@ -31,7 +31,7 @@ Dies ist ein praktisches Open Source-Tool, mit dem weitere Betriebssysteme in ei
 VirtualBox ist für Windows/Mac/Linux unter folgendem Link verfügbar :
 https://www.virtualbox.org/wiki/Downloads
 
-<img src="src\A_01_VirtualBox_Download.jpg" alt="A_01_VirtualBox_Download" style="zoom: 33%;" />
+<img src="src\A_01_VirtualBox_Download.jpg" alt="A_01_VirtualBox_Download" width="600"/>
 
 
 
@@ -39,17 +39,17 @@ https://www.virtualbox.org/wiki/Downloads
 
 Nach dem Download gestaltet sich die **Installation** sehr einfach, die **Voreinstellungen** können nämlich einfach übernommen werden. Beispielhaft wird im Folgenden die Installation auf Windows dargestellt:
 
-<img src="src\A_02_VirtualBox_Installation_a.jpg" alt="A_02_VirtualBox_Installation_a" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_a.jpg" alt="A_02_VirtualBox_Installation_a" width="450" />
 
-<img src="src\A_02_VirtualBox_Installation_b.jpg" alt="A_02_VirtualBox_Installation_b" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_b.jpg" alt="A_02_VirtualBox_Installation_b" width="450"/>
 
-<img src="src\A_02_VirtualBox_Installation_c.jpg" alt="A_02_VirtualBox_Installation_c" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_c.jpg" alt="A_02_VirtualBox_Installation_c" width="450"/>
 
-<img src="src\A_02_VirtualBox_Installation_d.jpg" alt="A_02_VirtualBox_Installation_d" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_d.jpg" alt="A_02_VirtualBox_Installation_d" width="450" />
 
-<img src="src\A_02_VirtualBox_Installation_e.jpg" alt="A_02_VirtualBox_Installation_e" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_e.jpg" alt="A_02_VirtualBox_Installation_e" width="450"/>
 
-<img src="src\A_02_VirtualBox_Installation_f.jpg" alt="A_02_VirtualBox_Installation_f" style="zoom:33%;" />
+<img src="src\A_02_VirtualBox_Installation_f.jpg" alt="A_02_VirtualBox_Installation_f" width="450" />
 
 
 
@@ -57,7 +57,7 @@ Nach dem Download gestaltet sich die **Installation** sehr einfach, die **Vorein
 
 Um unser Image nun laden zu können, müssen wir in VirtualBox zunächst eine virtuelle Maschine - quasi ein "virtueller Computer" - erzeugen. Dafür einfach auf den Button **"Neu"** klicken.
 
-<img src="src\B_01_Neu.jpg" alt="B_01_Neu" style="zoom:33%;" />
+<img src="src\B_01_Neu.jpg" alt="B_01_Neu" width="600" />
 
 
 
@@ -67,7 +67,7 @@ Im nächsten Fenster vergeben wir einen geeigneten Namen für unsere virtuelle M
 Die **Speichergröße** (RAM) wird zunächst auf 2048 MB festgelegt. Je nach verfügbarer Hardware kann diese aber beliebig verkleinert/vergrößert werden.
 Zuletzt setzen wir noch den Punkt **"Festplatte erzeugen"** und drücken den Button **"Erzeugen"**.
 
-<img src="src\B_02_VM_erzeugen.jpg" alt="B_02_VM_erzeugen" style="zoom:33%;" />
+<img src="src\B_02_VM_erzeugen.jpg" alt="B_02_VM_erzeugen" width="600" />
 
 
 
@@ -76,7 +76,7 @@ Zuletzt setzen wir noch den Punkt **"Festplatte erzeugen"** und drücken den But
 Anschließend müssen wir im nächsten Fenster den **Dateipfad** zu unserem Image angeben.
 Die **Dateigröße** lassen wir auf max. 8,00 GB, auch **Dateityp der Festplatte** und **Art der Speicherung** kann auf den Voreinstellungen belassen werden. Wieder drücken wir auf den Button **"Erzeugen"**.
 
-<img src="src\B_03_VirtuelleFestplatte.jpg" alt="B_03_VirtuelleFestplatte" style="zoom:33%;" />
+<img src="src\B_03_VirtuelleFestplatte.jpg" alt="B_03_VirtuelleFestplatte" width="600" />
 
 
 
@@ -84,7 +84,7 @@ Die **Dateigröße** lassen wir auf max. 8,00 GB, auch **Dateityp der Festplatte
 
 Damit ist nun unsere virtuelle Maschine fertig. Wenn alles funktioniert hat, sollte die Ansicht ungefähr so ausschauen:
 
-<img src="src\B_04_Image_laden_a.jpg" alt="B_04_Image_laden_a" style="zoom:33%;" />
+<img src="src\B_04_Image_laden_a.jpg" alt="B_04_Image_laden_a" width="600" />
 
 
 
@@ -93,7 +93,7 @@ Damit ist nun unsere virtuelle Maschine fertig. Wenn alles funktioniert hat, sol
 > Falls unter dem Punkt **"Massenspeicher"** bei **"[Optisches Laufwerk]"** immer noch **"leer"** steht, sollte noch einmal unser Image als Abbild ausgewählt werden.
 >
 
-<img src="src\B_04_Image_laden_b.jpg" alt="B_04_Image_laden_b" style="zoom:33%;" />
+<img src="src\B_04_Image_laden_b.jpg" alt="B_04_Image_laden_b" width="600" />
 
 
 
@@ -101,7 +101,7 @@ Damit ist nun unsere virtuelle Maschine fertig. Wenn alles funktioniert hat, sol
 
 Um die virtuelle Maschine zu starten, klicken wir oben rechts auf den Button **"Start"**.
 
-<img src="src\B_05_Image_starten.jpg" alt="B_05_Image_starten" style="zoom:33%;" />
+<img src="src\B_05_Image_starten.jpg" alt="B_05_Image_starten" width="600" />
 
 
 
@@ -111,7 +111,7 @@ Um die virtuelle Maschine zu starten, klicken wir oben rechts auf den Button **"
 
 Das virtuelle Betriebssystem wird nun automatisch hochgefahren. Alternativ kann im Bootmenü der Unterpunkt **"live"** ausgewählt werden. 
 
-<img src="src\C_00_LiveSystem_Staten.jpg" alt="C_00_LiveSystem_Staten" style="zoom:33%;" />
+<img src="src\C_00_LiveSystem_Staten.jpg" alt="C_00_LiveSystem_Staten" width="650" />
 
 
 
@@ -119,13 +119,13 @@ Das virtuelle Betriebssystem wird nun automatisch hochgefahren. Alternativ kann 
 
 Nach kurzer Wartezeit erscheint dann der Desktop. Hier sehen wir, dass bereits ein Ordner **"BB26 (2019)"** verfügbar ist. Darin sind alle relevanten Dateien enthalten. Auch befinden sich hier später Text-Dateien, welche automatisch generiert und in denen alle Experimental-Ergebnisse gespeichert werden.
 
-<img src="src\C_01_Desktop.jpg" alt="C_01_Desktop" style="zoom:33%;" />
+<img src="src\C_01_Desktop.jpg" alt="C_01_Desktop" width="650"  />
 
-<img src="src\C_02_BB26-Folder.jpg" alt="C_02_BB26-Folder" style="zoom:33%;" />
+<img src="src\C_02_BB26-Folder.jpg" alt="C_02_BB26-Folder" width="650"  />
 
-<img src="src\C_03_Psychophysik-Folder.jpg" alt="C_03_Psychophysik-Folder" style="zoom:33%;" />
+<img src="src\C_03_Psychophysik-Folder.jpg" alt="C_03_Psychophysik-Folder" width="650"  />
 
-<img src="src\C_04_Psychophysik[2020]-Folder.jpg" alt="C_04_Psychophysik[2020]-Folder" style="zoom:33%;" />
+<img src="src\C_04_Psychophysik[2020]-Folder.jpg" alt="C_04_Psychophysik[2020]-Folder" width="650"  />
 
 
 
@@ -141,7 +141,7 @@ Um die bewegten visuellen Stimuli zu erstellen, benutzen wir in diesem Experimen
 
 Um Octave zu starten, gehen wir im **Applications Menu** (links oben) auf den Reiter **Education** und klicken auf die **App** *GNU Octave*.
 
-<img src="src\D_00_Octave_starten.jpg" alt="D_00_Octave_starten" style="zoom:33%;" />
+<img src="src\D_00_Octave_starten.jpg" alt="D_00_Octave_starten" width="650"  />
 
 
 
@@ -156,7 +156,7 @@ Nach dem Start von Octave erscheint die Octave-**Oberfläche**, welche aus mehre
 - *Workspace*: Fenster links unten; hier werden Größe und Typ von Objekten angegeben. 
 - *Documentation*: Fenster rechts; bietet umfangreiche Informationen über Funktion, insbesondere zu ihrer Syntax.
 
-<img src="src\D_01_Octave_Oberfläche.jpg" alt="07_Octave_Oberfläche" style="zoom:33%;" />
+<img src="src\D_01_Octave_Oberfläche.jpg" alt="07_Octave_Oberfläche" width="650"  />
 
 
 
@@ -170,13 +170,13 @@ In diesem Tutorial werden wir im Wesentlichen nur eine einzige Funktion benötig
 Der vollständige Pfad lautet:
 `home/dj0/Desktop/BB 26 (2019)/Psychophysik/Psychophysic Toolbox [2019]`
 
-<img src="src\D_02_FileBrowser_a.jpg" alt="08_FileBrowser_a" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_a.jpg" alt="08_FileBrowser_a" width="650"  />
 
-<img src="src\D_02_FileBrowser_b.jpg" alt="08_FileBrowser_b" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_b.jpg" alt="08_FileBrowser_b" width="650"  />
 
-<img src="src\D_02_FileBrowser_c.jpg" alt="08_FileBrowser_c" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_c.jpg" alt="08_FileBrowser_c" width="650"  />
 
-<img src="src\D_02_FileBrowser_d.jpg" alt="08_FileBrowser_d" style="zoom:33%;" />
+<img src="src\D_02_FileBrowser_d.jpg" alt="08_FileBrowser_d" width="650"  />
 
 
 
@@ -188,7 +188,7 @@ Nun sollten wir im Ordner des Scripts *DotDemo_2019.m* angelangt sein. Um es zu 
 DotDemo_2019
 ```
 
-<img src="src\D_03_DotDemo-Command.jpg" alt="09_DotDemo-Command" style="zoom:33%;" />
+<img src="src\D_03_DotDemo-Command.jpg" alt="09_DotDemo-Command" width="650"  />
 
 
 
@@ -213,13 +213,13 @@ Vor Beginn der Präsentation der Random Dot Pattern werden mehrere Informationen
 
 Jeder Eingabe ist mit der Taste [ENTER] zu bestätigen.
 
-<img src="src\D_04_Gruppennummer_angeben.jpg" alt="10_Gruppennummer_angeben" style="zoom:33%;" />
+<img src="src\D_04_Gruppennummer_angeben.jpg" alt="10_Gruppennummer_angeben" width="650"  />
 
-<img src="src\D_05_Teilnehmer-Name_angeben.jpg" alt="11_Teilnehmer-Name_angeben" style="zoom:33%;" />
+<img src="src\D_05_Teilnehmer-Name_angeben.jpg" alt="11_Teilnehmer-Name_angeben" width="650"  />
 
-<img src="src\D_06_Kohärenzwert_angeben.jpg" alt="12_Kohärenzwert_angeben" style="zoom:33%;" />
+<img src="src\D_06_Kohärenzwert_angeben.jpg" alt="12_Kohärenzwert_angeben" width="650"  />
 
-<img src="src\D_07_Trial-Anzahl_angeben.jpg" alt="12_Trial-Anzahl_angeben" style="zoom:33%;" />
+<img src="src\D_07_Trial-Anzahl_angeben.jpg" alt="12_Trial-Anzahl_angeben" width="650"  />
 
 
 
@@ -228,7 +228,7 @@ Jeder Eingabe ist mit der Taste [ENTER] zu bestätigen.
 Nun wird eine **Bestätigung** (`y` = yes, `n` = no) der vorher getätigten Eingaben verlangt. Zudem wird der Dateiname angegeben, in dem die Ergebnisse automatisch als Excel-Datei abgespeichert werden.
 Falls alles richtig eingegeben wurde, drücken wir im Command Window die Taste `y` und bestätigen wieder mit [ENTER]. Damit startet die Dot Demo.
 
-<img src="src\D_08_Bestätigen.jpg" alt="13_Bestätigen" style="zoom:33%;" />
+<img src="src\D_08_Bestätigen.jpg" alt="13_Bestätigen" width="650"  />
 
 
 
@@ -241,7 +241,7 @@ Die Stimulus-Präsentation sollte etwa wie im folgenden Fenster aussehen. Dabei 
 * *Random Dots* (weiße Punkte): diese Punkte können sich je nach Kohärenzwert in eine Richtung bewegen. Bei einer Kohärenz von 100% würden sich somit alle weißen Punkte entweder zum blauen oder grünen Punkt hin bewegen. Bei Kohärenzwerten von < 100% bewegt sich entsprechend nur eine Teilmenge von Punkten in eine dieser beiden Richtungen, der Rest schlägt zufällige Bewegungsrichtungen ein. 
   WICHTIG: die Testperson soll <u>nicht</u> die weißen Punkte fixieren, sondern sich ausschließlich auf den roten Punkt konzentrieren!
 
-<img src="src\D_09_DotDemo_durchführen.jpg" alt="14_DotDemo_durchführen" style="zoom:33%;" />
+<img src="src\D_09_DotDemo_durchführen.jpg" alt="14_DotDemo_durchführen" width="650"  />
 
 
 
@@ -254,7 +254,7 @@ Dies wiederholen wir solange, bis alle Trials für einen einzelnen Kohärenzwert
 
 > Beachte: Octave limitiert die Ausgabe von langem Output. Es ist somit notwendig, durch Drücken der Taste `f` in der Ausgabe weiter zu scrollen. Alternativ kann dieses Verhalten auch abgestellt werden, in dem man direkt nach dem Öffnen der Octave-App den Command `more on` ausführt.
 
-<img src="src\D_10_nach_DotDemo_CommandWindow.jpg" alt="14_nach_DotDemo_CommandWindow" style="zoom:33%;" />
+<img src="src\D_10_nach_DotDemo_CommandWindow.jpg" alt="14_nach_DotDemo_CommandWindow" width="650"  />
 
 
 
@@ -264,7 +264,7 @@ Nach Durchführen aller Trials sollten wir folgende **Ergebnismatrix** im Comman
 * *Relative Kohärenz* (mittlere Spalte): hier wird für jeden Trial die relative Kohärenz als Dezimalzahl angegeben. Dieser Wert sollte über alle Trials konstant bleiben.
 * *Antwortdauer [in Sekunden]* (rechte Spalte): hier wird die Zeit abgetragen, die nach der Präsentation des Trials bis zur Antwort der Versuchsperson (Drücken der Taste `b` oder `g`) verstrichen ist.
 
-<img src="src\D_11_ErgebnisMatrix.jpg" alt="15_ErgebnisMatrix" style="zoom:33%;" />
+<img src="src\D_11_ErgebnisMatrix.jpg" alt="15_ErgebnisMatrix" width="650"  />
 
 
 
@@ -285,23 +285,25 @@ Die Ergebnisse lassen sich nach Abschluss aller Experimente in einem Office-Prog
 * Ergebnisse einfügen, z.B. mit Tastenkombination [STR]+[V] 
 * Im Menü *Text Import*  die im Bild gezeigten Einstellungen verwenden
 
-<img src="src\E_01_LibreOffice-Calc_starten.jpg" alt="E_17_LibreOffice-Calc_starten" style="zoom:33%;" />	
 
-<img src="src\E_02_LibreOffice-Calc_Oberfläche.jpg" alt="E_02_LibreOffice-Calc_Oberfläche" style="zoom:33%;" />
 
-<img src="src\E_03_Ergebnismatrix_einfügen.jpg" alt="E_03_Ergebnismatrix_einfügen" style="zoom:33%;" />
+<img src="src\E_01_LibreOffice-Calc_starten.jpg" alt="E_17_LibreOffice-Calc_starten" width="650"/> 	
+
+<img src="src\E_02_LibreOffice-Calc_Oberfläche.jpg" alt="E_02_LibreOffice-Calc_Oberfläche" width="650" />
+
+<img src="src\E_03_Ergebnismatrix_einfügen.jpg" alt="E_03_Ergebnismatrix_einfügen" width="650" />
 
 
 
 Es sollten nun die Ergebnisse in drei Spalten aufgeteilt worden sein. Der Vollständigkeit halber wurden im folgenden Bild die Tabellenspalten mit Bezeichnungen versehen.
 
-<img src="src\E_04_Interpretation_a.jpg" alt="E_04_Interpretation_a" style="zoom:33%;" />
+<img src="src\E_04_Interpretation_a.jpg" alt="E_04_Interpretation_a" width="650"  />
 
 
 
 Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bild per Menü:
 
-<img src="src\E_05_Speichern-Ergebnisse.jpg" alt="E_05_Speichern-Ergebnisse" style="zoom:33%;" />
+<img src="src\E_05_Speichern-Ergebnisse.jpg" alt="E_05_Speichern-Ergebnisse" width="650"  />
 
 
 
@@ -315,7 +317,7 @@ Gespeichert werden kann die Tabelle dann mit [STR]+[S] oder wie im folgenden Bil
 
 
 
-<img src="src\F_01_VirtuelleMaschine-Beenden.jpg" alt="F_01_VirtuelleMaschine-Beenden" style="zoom:33%;" />
+<img src="src\F_01_VirtuelleMaschine-Beenden.jpg" alt="F_01_VirtuelleMaschine-Beenden" width="650"  />
 
 
 
